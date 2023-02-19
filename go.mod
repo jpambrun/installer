@@ -1,4 +1,4 @@
-module github.com/jpillora/installer
+module github.com/jpambrun/installer
 
 go 1.18
 
